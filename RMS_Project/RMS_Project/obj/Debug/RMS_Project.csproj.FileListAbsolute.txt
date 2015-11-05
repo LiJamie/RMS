@@ -20,3 +20,6 @@ C:\Users\Jamie\Documents\Visual Studio 2013\Projects\RMS_Project\RMS_Project\obj
 C:\Users\Jamie\Documents\Visual Studio 2013\Projects\RMS_Project\RMS_Project\obj\Debug\RMS_Project.RequirementListForm.resources
 C:\Users\Jamie\Documents\Visual Studio 2013\Projects\RMS_Project\RMS_Project\obj\Debug\RMS_Project.TestListForm.resources
 C:\Users\Jamie\Documents\Visual Studio 2013\Projects\RMS_Project\RMS_Project\obj\Debug\RMS_Project.TestDetailForm.resources
+C:\Users\Jamie\Documents\RequirementManagementSystem\RMS_Project\RMS_Project\bin\Debug\RMS_Project.exe.config
+C:\Users\Jamie\Documents\RequirementManagementSystem\RMS_Project\RMS_Project\obj\Debug\RMS_Project.exe
+C:\Users\Jamie\Documents\RequirementManagementSystem\RMS_Project\RMS_Project\obj\Debug\RMS_Project.pdb
