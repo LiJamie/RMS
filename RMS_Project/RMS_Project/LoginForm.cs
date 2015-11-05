@@ -58,14 +58,15 @@ namespace RMS_Project
             {
                 Console.WriteLine(e.ToString());
             }
+
         }
 
         private void LoginConfirmButton_Click(object sender, EventArgs e)
         {
             PostProduct();
-            ProjectListForm plf = new ProjectListForm();
+            ProjectListForm projectListForm = new ProjectListForm();
             this.Hide();
-            plf.Show();
+            projectListForm.Show();
         }
 
     }
